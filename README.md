@@ -71,7 +71,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  ```
 //exp1- All logic Gates TT verfn..
-module dnew1(a, b, c, d, e, x, y, z) ;
+module exp1_0079(a, b, c, d, e, x, y, z) ;
 input a, b;
 output c, d, e, x, y, z; 
 and (c,a, b); 
