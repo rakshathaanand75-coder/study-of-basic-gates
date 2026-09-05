@@ -88,11 +88,11 @@ endmodule
 
 
 **RTL realization Output:** 
-<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/4570a359-8ca6-4ebd-b4ce-9161f90bf769" />
+<img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/3ddc60ab-5241-491f-a6c6-c99e7c39c927" />
 
 
 **RTL**
-<img width="1355" height="726" alt="image" src="https://github.com/user-attachments/assets/41a891c0-172f-47f9-b3bb-c8b8f9e0e63f" />
+<img width="1600" height="851" alt="image" src="https://github.com/user-attachments/assets/a684ac02-a5f3-4688-a247-3ac2eb82b863" />
 
 
 
